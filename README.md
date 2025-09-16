@@ -1,19 +1,24 @@
-# 💫 About Me:
-<span style="color:rgba(255,255,255,0.7);">
-16-year-old student focused on backend development. Enthusiastic about learning Rust and Java, aiming to build useful tools and share knowledge.
+<!-- Центрируем прозрачный баннер -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/ThinkerTHK/transparent-liquid-glass-banner.png" alt="ThinkerTHK Liquid Glass Banner" width="600"/>
+</p>
+
+# 💫 About Me
+<span style="color: rgba(255, 255, 255, 0.5); font-weight: 400;">
+16-year-old student passionate about backend development. Learning Rust, Java and Python. Inspired by elegant and modern design like iOS 26 Liquid Glass.
 </span>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/thinkerthk) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/vladislavthk) 
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge&color=rgba(30, 87, 153, 0.6))](https://discord.gg/thinkerthk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&color=rgba(228, 64, 95, 0.6))](https://instagram.com/vladislavthk)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54&logoWidth=20&labelColor=rgba(255,255,255,0.3)) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white&labelColor=rgba(255,255,255,0.3)) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&labelColor=rgba(255,255,255,0.3))
+# 💻 Tech Stack
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=rgba(255, 255, 255, 0.2))
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=rgba(255, 255, 255, 0.2))
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54&labelColor=rgba(255, 255, 255, 0.2))
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VladTHK&theme=radical&hide_border=true&include_all_commits=false&count_private=false&bg=00000000)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ThinkerTHK&theme=radical&hide_border=true&bg=00000000&count_private=false&include_all_commits=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VladTHK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ThinkerTHK&theme=radical&no-bg=true&margin-w=4)
