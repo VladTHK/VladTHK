@@ -1,24 +1,21 @@
-<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" >
-  <defs>
-    <linearGradient id="holoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#ff00f7" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#00ffaa" stop-opacity="0.8"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#00f0ff" flood-opacity="0.8"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#ff00f7" flood-opacity="0.6"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00ffaa" flood-opacity="0.8"/>
-    </filter>
-  </defs>
+# 💫 About Me:
+16-year-old student focused on backend development. Enthusiastic about learning Rust and Java, aiming to build useful tools and share knowledge. 
 
-  <rect width="600" height="150" fill="url(#holoGradient)" fill-opacity="0.3" rx="20" ry="20" />
-  
-  <text x="50%" y="45%" text-anchor="middle" fill="url(#holoGradient)" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-weight="900" font-size="48" filter="url(#glow)" >
-    ThinkerTHK
-  </text>
-  
-  <text x="50%" y="80%" text-anchor="middle" fill="white" fill-opacity="0.7" font-family="Courier New, monospace" font-weight="600" font-size="24">
-    Rust &nbsp; • &nbsp; Java &nbsp; • &nbsp; Python
-  </text>
-</svg>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thinkerthk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vladislavthk) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VladTHK&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VladTHK&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VladTHK&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VladTHK&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VladTHK&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
