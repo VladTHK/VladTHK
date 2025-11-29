@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Vlad (VladTHK)</h1> <h5>aka: THK, Thinker, ThinkTHK, etc...</h5>
+<h1> Vlad (VladTHK) Starinkov </h1> <h5>aka: THK, Thinker, ThinkTHK, etc...</h5>
 </div>
 <img src="https://github.com/VladTHK/VladTHK/blob/main/assets/jumping-rabbit.gif" width="25%" align="right" />
 <br>
