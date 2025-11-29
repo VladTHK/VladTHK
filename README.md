@@ -1,21 +1,45 @@
-# 💫 About Me:
-🐰<b>16-year-old student focused on backend development.</b><br> Enthusiastic about learning Rust and Java, aiming to build useful tools and share knowledge. 
+<div align="center">
+<h1> Vlad (VladTHK)</h1> <h5>aka: THK, Thinker, ThinkTHK, etc...</h5>
+</div>
+<img src="https://github.com/VladTHK/VladTHK/edit/assets/jumping-rabbit.gif" width="25%" align="right" />
+<br>
 
+<h3> About me </h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thinkerthk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/VladislavTHK) 
+👩🏻‍💻 16 years old, web development student. <br>
+🌃 Born and raised in Siberia, now in Saint Petersburg. <br>
+💬 Telegram: @VladTHK <br>
+✉️ You can contact me at [starinkov2020@mail.ru](mailto:starinkov2020@mail.ru) <br>
+🖼 Website: [THK](https://vladthk.github.io) <br>
+🎓Programming student (web development), graduation in ~2 years.<br>
+💎IT projects enthusiast, creating new things, team collaborations. <br>
+♟ Hobbies: Chess, 3D-Modeling, Desing, Backend development, Frontend development.
+<br><br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<h3> Skills </h3>
+<h4> Backend </h4>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VladTHK&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=VladTHK&theme=codeSTACKr&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VladTHK&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
 
+<h4> Frontend </h4>
+  
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VladTHK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h4> Desing </h4>
 
----
-[![](https://visitcount.itsvg.in/api?id=VladTHK&icon=9&color=7)](https://visitcount.itsvg.in)
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+</p>
+                  
+
+<h3> Support Me </h3>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/vladthk"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</div>
