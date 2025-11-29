@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Vlad (VladTHK)</h1> <h5>aka: THK, Thinker, ThinkTHK, etc...</h5>
 </div>
-<img src="https://github.com/VladTHK/VladTHK/edit/assets/jumping-rabbit.gif" width="25%" align="right" />
+<img src="https://github.com/VladTHK/VladTHK/blob/main/assets/jumping-rabbit.gif" width="25%" align="right" />
 <br>
 
 <h3> About me </h3>
