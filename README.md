@@ -6,7 +6,7 @@
 
 <h3> About me </h3>
 
-👩🏻‍💻 16 years old, web development student. <br>
+👩🏻‍💻 Web development student. <br>
 🌃 Born and raised in Siberia, now in Saint Petersburg. <br>
 💬 Telegram: @VladTHK <br>
 ✉️ You can contact me at [starinkov2020@mail.ru](mailto:starinkov2020@mail.ru) <br>
