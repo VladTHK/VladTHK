@@ -6,7 +6,7 @@
 
   <h3>Who am I?</h3>
   <p>
-    17y.o. Full-Stack developer, known online as VladTHK, Thinker, THK. <br>
+    Frontend developer, known online as VladTHK, Thinker, THK. <br>
     I’m studying to become an “Information Systems and Web Applications Developer,”<br>
     but I’m mostly self-taught. <br>
     I’ve been programming and developing every day for several years now. <br>
